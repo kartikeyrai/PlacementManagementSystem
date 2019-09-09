@@ -1,2 +1,2 @@
 # placementmanagementsystem
-Extract the for all codes and report
+Extract the .rar file for all the codes and report
